@@ -1,0 +1,10 @@
+transformers
+datasets
+bitsandbytes
+huggingface_hub
+peft
+accelerate
+trl
+azure-storage-blob
+tqdm
+openai
